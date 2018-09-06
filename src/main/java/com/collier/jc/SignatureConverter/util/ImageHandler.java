@@ -1,10 +1,15 @@
-package uk.gov.learn.FileUpload.util;
+package com.collier.jc.SignatureConverter.util;
 
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
-
+/**
+ * @author Jordan
+ *
+ * Utility class contaiing methods which are used to execute image processing algorithms
+ *
+ * */
 public class ImageHandler {
 
     private BufferedImage bi;

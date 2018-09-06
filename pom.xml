@@ -3,13 +3,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>uk.gov.learn</groupId>
-	<artifactId>fileUpload</artifactId>
+	<groupId>com.collier.jc</groupId>
+	<artifactId>signatureConverter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>fileUpload</name>
-	<description>Project demonstrating file upload via spring boot</description>
+	<name>signatureConverter</name>
+	<description>Project aimed at converting photographs of signatures into digitally embeddable signatures</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
